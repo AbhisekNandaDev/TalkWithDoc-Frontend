@@ -10,18 +10,12 @@ TalkWithDoc is a project aimed at enabling users to interact with web content th
 - Vectorization: Converts text data into vectorized format suitable for LLM input.
 - LLM Integration: Utilizes the MixtR8 8x7b model via Groq API for response generation.
 - Conversational interface: Allows users to interact with web content through a chatbot interface.
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/TalkWithDoc.git
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Run React Server:
+   ```bash
+   npm start
